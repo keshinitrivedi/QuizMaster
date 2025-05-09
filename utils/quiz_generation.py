@@ -18,7 +18,7 @@ import logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-API_KEY = "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"
+API_KEY = "your_grok_api_key"
 groq_client = Groq(api_key=API_KEY)
 
 def clean_text(text):
