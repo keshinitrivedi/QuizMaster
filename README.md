@@ -128,22 +128,6 @@ Follow these steps to set up QuizMaster locally. Ensure you have **Python 3.8+**
    - Use the Admin Dashboard to manage users and quizzes.
    - Monitor system analytics and database.
 
-## Project Structure
-
-```
-QuizMaster/
-├── app.py               # Main Streamlit application
-├── requirements.txt     # Python dependencies
-├── .env                # Environment variables (not committed)
-├── src/
-│   ├── auth.py         # Authentication logic (bcrypt)
-│   ├── quiz_gen.py     # Quiz generation (Crawl4AI, Groq API)
-│   ├── db.py           # MongoDB interactions
-│   ├── analytics.py    # Plotly visualizations
-├── static/             # CSS, images (optional)
-├── README.md           # Project documentation
-```
-
 ## Authors
 
 - **Jainish Gandhi**  
