@@ -1,6 +1,6 @@
 # QuizMaster: AI-Powered Quiz Generator
 
-![QuizMaster Banner](https://via.placeholder.com/800x200.png?text=QuizMaster+AI)  
+
 *An AI-driven platform for generating, managing, and grading quizzes with real-time data.*
 
 ## Overview
