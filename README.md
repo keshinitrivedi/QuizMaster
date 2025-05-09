@@ -44,7 +44,7 @@ Follow these steps to set up QuizMaster locally. Ensure you have **Python 3.8+**
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/[Your-GitHub-Username]/QuizMaster.git
+   git clone https://github.com/Jainish2594/QuizMaster.git
    cd QuizMaster
    ```
 
