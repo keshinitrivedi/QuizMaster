@@ -61,15 +61,15 @@ Follow these steps to set up QuizMaster locally. Ensure you have **Python 3.8+**
    ```
    *Example `requirements.txt`:*
    ```
-   streamlit==1.35.0
-   pymongo==4.6.3
-   groq==0.9.0
-   scikit-learn==1.4.2
-   plotly==5.22.0
-   pandas==2.2.2
-   bcrypt==4.1.3
-   regex==2024.5.15
-   crawl4ai==0.2.0  # Adjust version as needed
+   streamlit
+   pymongo
+   groq
+   scikit-learn
+   plotly
+   pandas
+   bcrypt
+   regex
+   crawl4ai
    ```
 
 4. **Set Up MongoDB**:
