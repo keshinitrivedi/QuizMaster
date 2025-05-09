@@ -44,7 +44,7 @@ Follow these steps to set up QuizMaster locally. Ensure you have **Python 3.8+**
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Jainish2594/QuizMaster.git
+   git clone https://github.com/keshinitrivedi/QuizMaster.git
    cd QuizMaster
    ```
 
@@ -130,10 +130,10 @@ Follow these steps to set up QuizMaster locally. Ensure you have **Python 3.8+**
 
 ## Authors
 
-- **Jainish Gandhi**  
-  GitHub: [github.com/jainishgandhi](https://github.com/jainish2594)
+- **Jainish Gandhi**  <br>
+  GitHub: [github.com/Jainish2594](https://github.com/Jainish2594)
 
-- **Keshini Trivedi**
+- **Keshini Trivedi** <br>
   GitHub: [github.com/keshinitrivedi](https://github.com/keshinitrivedi)
 
 ---
