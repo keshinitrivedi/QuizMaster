@@ -1,0 +1,10 @@
+streamlit
+pymongo
+bcrypt
+groq
+crawl4ai
+scikit-learn
+numpy
+streamlit-option-menu
+plotly
+pandas
